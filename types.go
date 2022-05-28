@@ -6,7 +6,7 @@ func main(){
 	fmt.Println("hello")
 }
 string
-int
+int, uint
 bool
 float32, float64
 
